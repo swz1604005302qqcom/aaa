@@ -36,3 +36,5 @@ map.set_global_opts(
     )
 )
 map.render()
+
+print(1,2,34)
